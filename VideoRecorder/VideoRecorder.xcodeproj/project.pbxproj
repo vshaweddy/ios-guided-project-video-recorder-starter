@@ -15,6 +15,7 @@
 		BD891F3E2345055E0035EB8C /* CameraPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD891F3D2345055E0035EB8C /* CameraPreviewView.swift */; };
 		BD891F40234505930035EB8C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD891F3F234505930035EB8C /* Main.storyboard */; };
 		BD891F42234505DB0035EB8C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD891F41234505DB0035EB8C /* ViewController.swift */; };
+		E3F5228923D7F1E6005EF0D6 /* PlaybackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F5228823D7F1E6005EF0D6 /* PlaybackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BD891F3D2345055E0035EB8C /* CameraPreviewView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraPreviewView.swift; sourceTree = "<group>"; };
 		BD891F3F234505930035EB8C /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		BD891F41234505DB0035EB8C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E3F5228823D7F1E6005EF0D6 /* PlaybackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaybackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				BD891F2B234504D00035EB8C /* SceneDelegate.swift */,
 				BD891F2D234504D00035EB8C /* CameraViewController.swift */,
 				BD891F3D2345055E0035EB8C /* CameraPreviewView.swift */,
+				E3F5228823D7F1E6005EF0D6 /* PlaybackView.swift */,
 				BD891F41234505DB0035EB8C /* ViewController.swift */,
 				BD891F3F234505930035EB8C /* Main.storyboard */,
 				BD891F32234504D20035EB8C /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD891F42234505DB0035EB8C /* ViewController.swift in Sources */,
+				E3F5228923D7F1E6005EF0D6 /* PlaybackView.swift in Sources */,
 				BD891F3E2345055E0035EB8C /* CameraPreviewView.swift in Sources */,
 				BD891F2E234504D00035EB8C /* CameraViewController.swift in Sources */,
 				BD891F2A234504D00035EB8C /* AppDelegate.swift in Sources */,
